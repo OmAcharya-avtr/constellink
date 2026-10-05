@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ConstelLink"
+abstract: "Constellation link planning over a time-varying contact graph — sgp4 propagation, inter-satellite and ground contact windows, Dijkstra on a time-expanded graph, ILP max-flow scheduling, RF and optical capacity models; calibrated link-availability predictor against climatology and logistic baselines."
+type: software
+authors:
+  - family-names: "Acharya"
+    given-names: "Om"
+    alias: "OmAcharya-avtr"
+repository-code: "https://github.com/OmAcharya-avtr/constellink"
+license: "AGPL-3.0"
+version: "0.1.0"
+date-released: "2026-08-30"
+keywords:
+  - aerospace
+  - satellite-communications
